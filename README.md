@@ -1,6 +1,6 @@
 For this project, I created a seven page website that illustrates and organizes plots made with Matplotlib regarding weather data near the equator. I used HTML and CSS to create a dashboard featuring Latitude vs. X analysis of weather.
 
-Test web design page <a href="https://alliecarlile.github.io/Web-Design-Challenge/visualizations/landingpage.html">here</a>
+Test web design page <a href="https://alliecarlile.github.io/Latitude-Web-Visual-Analysis/visualizations/landingpage.html">here</a>
 
 This website was designed with the following features:
 
